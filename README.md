@@ -345,7 +345,3 @@ This project demonstrates how Generative AI can automate blog planning and conte
 By integrating LangChain, Gemini, Pydantic, Streamlit, and Langfuse, the application provides an end-to-end AI workflow with observability and structured outputs.
 
 ---
-
-- Python
-
-🚀 Built as a Generative AI project for intelligent blog topic and outline generation.
